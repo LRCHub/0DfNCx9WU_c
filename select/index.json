@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "After Party",
+  "base_artist": "ralph",
+  "createdAt": "2025-12-07T06:51:36.524226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "Don Toliver",
+      "has_synced": true,
+      "path": "select/01_After_Party_Don_Toliver.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The After-Party",
+      "artist": "Jodeci",
+      "has_synced": false,
+      "path": "select/02_The_After-Party_Jodeci.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "Air Traffic Controller",
+      "has_synced": false,
+      "path": "select/03_After_Party_Air_Traffic_Controller.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "After Life After Party",
+      "artist": "Jacques Greene",
+      "has_synced": false,
+      "path": "select/04_After_Life_After_Party_Jacques_Greene.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Party & The After Party",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_The_Party_&_The_After_Party_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "Koffee Brown",
+      "has_synced": true,
+      "path": "select/06_After_Party_Koffee_Brown.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sad Sorry After Party",
+      "artist": "UPSAHL",
+      "has_synced": true,
+      "path": "select/07_Sad_Sorry_After_Party_UPSAHL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sad Sorry After Party",
+      "artist": "UPSAHL",
+      "has_synced": false,
+      "path": "select/08_Sad_Sorry_After_Party_UPSAHL.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "The Lonely Island feat. Santigold",
+      "has_synced": true,
+      "path": "select/09_After_Party_The_Lonely_Island_feat._Santigold.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/10_After_Party_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "After Party (Album Version)",
+      "artist": "The Lonely Island/Santigold",
+      "has_synced": true,
+      "path": "select/11_After_Party_(Album_Version)_The_Lonely_Island_Santigold.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "After Party (Album Version)",
+      "artist": "The Lonely Island",
+      "has_synced": true,
+      "path": "select/12_After_Party_(Album_Version)_The_Lonely_Island.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Party & The After Party - Original",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/13_The_Party_&_The_After_Party_-_Original_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Party & The After Party (Original)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/14_The_Party_&_The_After_Party_(Original)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Giants (After Party Version)",
+      "artist": "Take That",
+      "has_synced": false,
+      "path": "select/15_Giants_(After_Party_Version)_Take_That.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "Dynamite MC feat. Rookwood",
+      "has_synced": false,
+      "path": "select/16_After_Party_Dynamite_MC_feat._Rookwood.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Party & The After Party",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_The_Party_&_The_After_Party_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The After Party That Says, \"Yes!\"",
+      "artist": "Dneail",
+      "has_synced": false,
+      "path": "select/18_The_After_Party_That_Says,__Yes!_Dneail.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "After Party",
+      "artist": "Ozomatli",
+      "has_synced": true,
+      "path": "select/19_After_Party_Ozomatli.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "After Party",
+      "artist": "ralph",
+      "has_synced": false,
+      "path": "select/pl_01_After_Party_ralph.txt"
+    }
+  ]
+}
